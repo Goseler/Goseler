@@ -3,11 +3,11 @@
 - 📫 How to reach me:
   + [Instagram](https://www.instagram.com/rdkn.vtl/ "@rdkn.vtl")
   + [Telegram](https://t.me/rdkn_vtl "@rdkn_vtl")
+  + [LinkedIn](https://www.linkedin.com/in/vitalii-rudkin-2b11141b8/)
   + Gmail: 
     + vitasik.rudkin@gmail.com
     + vitalii.rudkin@gmail.com
   + Phone: +(380)997365712
-  + [LinkedIn](https://www.linkedin.com/in/vitalii-rudkin-2b11141b8/)
 
 <!---
 Goseler/Goseler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
