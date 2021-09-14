@@ -7,6 +7,7 @@
     + vitasik.rudkin@gmail.com
     + vitalii.rudkin@gmail.com
   + Phone: +(380)997365712
+  + [LinkedIn](https://www.linkedin.com/in/vitalii-rudkin-2b11141b8/)
 
 <!---
 Goseler/Goseler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
