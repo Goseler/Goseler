@@ -3,7 +3,7 @@
 - 📫 How to reach me:
   + [Instagram](https://www.instagram.com/rdkn.vtl/ "@rdkn.vtl")
   + [Telegram](https://t.me/rdkn_vtl "@rdkn_vtl")
-  + [LinkedIn](https://www.linkedin.com/in/vitalii-rudkin-2b11141b8/)
+  + [LinkedIn](https://www.linkedin.com/in/vitalii-rudkin/)
   + Gmail: 
     + vitasik.rudkin@gmail.com
     + vitalii.rudkin@gmail.com
