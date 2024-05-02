@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @owlrv
-- 👀 I’m interested in web-programming
-- 📫 How to reach me:
-  + [LinkedIn](https://www.linkedin.com/in/vitalii-rudkin/)
-  + Gmail: 
-    + vitasik.rudkin@gmail.com
-   
-
-
-
 # Welcome to the Digital Playground of [Your Name]!
 
 ## Software Engineer by day, caffeine enthusiast by night (and sometimes morning, afternoon, and evening... okay, all the time). ☕️
@@ -37,6 +27,9 @@ How to reach out if you need a coding buddy, debugging confidante, or just someo
 - Just say hi! I'm always down to chat about code, coffee, or the existential dread of bugs.
 
 Happy coding!
+
+
+[LinkedIn](https://www.linkedin.com/in/vitalii-rudkin/)
 
 
 <!---
