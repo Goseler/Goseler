@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goseler
+- 👋 Hi, I’m @owlrv
 - 👀 I’m interested in web-programming
 - 📫 How to reach me:
   + [LinkedIn](https://www.linkedin.com/in/vitalii-rudkin/)
